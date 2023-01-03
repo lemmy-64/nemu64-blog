@@ -1,3 +1,5 @@
+# Revisiting Nemu64
+
 In September of 2020 I got interested in emulation again. It had been almost 20 years since I made my last contribution, and plenty of things had changed:
 
 * Modern N64 emulators play essentially any game.
@@ -31,4 +33,4 @@ The work to modernize Nemu64 involved/involves:
 * For HLE, implement some new tricks like frame interpolation
 * Bring the old Debugger (which was written in Delphi) into the modern world
 
-Over the next weeks and months I am planning on writing about the topics above and will link them here.
+Over the next weeks and months I am planning on writing about some of the topics above and will link them here.
