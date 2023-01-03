@@ -21,7 +21,7 @@ There are a couple of motivations for me:
  * An emulator with a good debugger is a great learning experience for people to learn about how computers work. I myself learned assembly programming through watching an emulator that preceeded Nemu: Project Unreality. I want to be able to give the same to others.
  * Building an emulator that is both accurate and fast is the ultimate puzzle experience.
 
-So that's what I set out to turn the Nemu of old into. Spoiler alert: I am not at that point yet, so I am not at a point where I feel ready to ship it yet. However, plenty of the work has happened and along the way I came up with some technical strategies that I wanted to share here.
+So that's what I set out to turn the Nemu of old into. Spoiler alert: I am not at that point yet, so I am not at a point where I feel ready to ship it yet. However, plenty of the work has happened and along the way I came up with some techniques that I wanted to share here.
 
 The work to modernize Nemu64 involved/involves:
 * Write a (huge) [unit testing suite that deeply tests the console or the emulator](02-test-everything.md).
@@ -32,5 +32,6 @@ The work to modernize Nemu64 involved/involves:
 * Integrate with ParallelRDP for LLE.
 * For HLE, implement some new tricks like frame interpolation.
 * Bring the old Debugger (which was written in Delphi) into the modern world.
+* And plenty more
 
-Over the next weeks and months I am planning on writing about some of the topics above and will link them here.
+I am planning on writing about some of the topics above and will link them here.
