@@ -12,7 +12,7 @@ How do you know what to put into an emulator? What should happen if e.g. certain
 
 By following the above, the world ends up with a lot of emulators in which each one emulator gets some things right and others wrong. For example, the old Nemu
 (which certainly wasn't a shining example of overall correctness) was the only emulator in 2020 to correctly read bytes from ROM; the knowledge that the hardware
-has a weird quirk here was completely forgotten until recently. (Sidenote: This is less of a problem with modern open source software but still true for things that
+has a weird quirk here was completely forgotten until recently. (Side note: This is less of a problem with modern open source software but still true for things that
 are easily overlooked or that are difficult to get right).
 
 There has been progress on that problem in general: Two fantastic projects in particular are
