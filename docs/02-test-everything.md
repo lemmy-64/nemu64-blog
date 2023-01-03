@@ -7,7 +7,7 @@ How do you know what to put into an emulator? What should happen if e.g. certain
 
  The above approaches have a few downsides:
  * Documentation can be incorrect or incomplete.
- * Fixing bugs can feel like playing Whac-A-Mole: Fix one thing here and some other thing break there.
+ * Fixing bugs can feel like playing Whac-A-Mole: Fix one thing here and some other thing breaks there.
  * Knowledge gets lost: While some emulator might get some detail right, the next emulator won't know about it.
 
 By following the above, the world ends up with a lot of emulators in which each one emulator gets some things right and others wrong. For example, the old Nemu
