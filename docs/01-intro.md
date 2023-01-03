@@ -7,7 +7,7 @@ In September of 2020 I got interested in emulation again. It had been almost 20 
 * LLE (accurately emulating the original console in a pixel perfect fashion) had essentially been perfected.
 * Computers are a lot faster.
 
-Well, that didn't stop me from seeing how far I'd get by modernizing a 20 year old codebase. Even if N64 emulation is solved problem I could still have some fun in modernizing the Nemu of old?
+Well, that didn't stop me from seeing how far I'd get by modernizing a 20 year old codebase. Even if N64 emulation is a solved problem I could still have some fun in modernizing the Nemu of old?
 
 However, the deeper I dug, the more it turned out that the above assumptions are not correct. While there has been huge progress over the last 20 years in making old games work, I realized there is still a huge opening for an emulator that provides:
 
