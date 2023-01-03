@@ -1,3 +1,3 @@
 # nemu64-blog
 
-[2023-01-03 A new way to build an emuator](docs/01-intro.md)
+[2023-01-03 Getting Nemu64 ready for 2023](docs/01-intro.md)
