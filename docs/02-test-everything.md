@@ -28,6 +28,6 @@ wasn't first verified to be correct on hardware.
 But at the same time it also helps other emulators be more accurate. The test suite is actually the only part of the new Nemu64 that has already been released
 and plenty of other emulators have already started fixing the bugs or inconsistencies that were discovered.
 
-Available at: https://github.com/lemmy-64/n64-systemtest
+Available at: [github.com/lemmy-64/n64-systemtest](https://github.com/lemmy-64/n64-systemtest)
 
 ![Testsuite running on hardware](testsuite.png)
