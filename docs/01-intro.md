@@ -24,7 +24,7 @@ There are a couple of motivations for me:
 So that's what I set out to turn the Nemu of old into. Spoiler alert: I am not at that point yet, so I am not at a point where I feel ready to ship it yet. However, plenty of the work has happened and along the way I came up with some technical strategies that I wanted to share here.
 
 The work to modernize Nemu64 involved/involves:
-* Write a (huge) unit testing suite that deeply tests the console or the emulator.
+* Write a (huge) [unit testing suite that deeply tests the console or the emulator](02-test-everything.md).
 * Write modern JITs that target x64 and aarch64.
 * Write a modern JIT for the RSP, taking advantage of AVX2 and Neon.
 * Revisit how caches work. Get timing right.
